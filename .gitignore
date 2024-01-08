@@ -1,0 +1,5 @@
+#Ignore files called .git and .dev
+.git
+.project
+#Ignore folder called node_modules
+/node_modules
